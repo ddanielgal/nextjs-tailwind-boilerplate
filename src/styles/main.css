@@ -1,0 +1,21 @@
+/* purgecss start ignore */
+
+@tailwind base;
+
+html, body, #__next {
+    width: 100vw;
+    height: 100vh;
+}
+
+.gradient-background {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.custom-class {
+    @apply p-5 border-4 border-solid border-purple-800 text-2xl;
+}
+
+/* purgecss end ignore */
+
+@tailwind components;
+@tailwind utilities;
