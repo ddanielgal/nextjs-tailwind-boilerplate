@@ -16,7 +16,7 @@
     "@zeit/next-css": "^1.0.1",
     "autoprefixer": "^9.7.3",
     "cssnano": "^4.1.10",
-    "next": "^9.1.6",
+    "next": "^11.1.0",
     "purgecss": "^1.4.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
